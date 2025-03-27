@@ -9,7 +9,7 @@
 
 ### 🚀 About Me
 
-I'm a dedicated Fullstack Web Developer passionate about crafting scalable, efficient, and user-friendly web applications. I thrive at the intersection of front-end creativity and back-end logic, constantly pushing myself to learn and innovate.
+I'm a dedicated Fullstack Web Developer with a passion for crafting scalable, efficient, and user-friendly web applications. I thrive at the intersection of front-end creativity and back-end logic, constantly pushing myself to learn and innovate.
 
 ---
 
@@ -37,13 +37,13 @@ I'm a dedicated Fullstack Web Developer passionate about crafting scalable, effi
 <div align="center">
   <table>
     <tr>
-      <td>
+      <td align="center">
         <a href="https://github.com/eseoghene94/e-commerce-platform">
           <img src="https://img.shields.io/badge/E--Commerce-Platform-blue?style=for-the-badge&logo=shopify" alt="E-Commerce" />
         </a>
         <p>A robust e-commerce solution with React, Node.js, and MongoDB.</p>
       </td>
-      <td>
+      <td align="center">
         <a href="https://github.com/eseoghene94/social-media-app">
           <img src="https://img.shields.io/badge/Social-Media-App-green?style=for-the-badge&logo=twitter" alt="Social Media" />
         </a>
@@ -71,7 +71,7 @@ I'm a dedicated Fullstack Web Developer passionate about crafting scalable, effi
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eseoghene94&theme=dracula&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=eseoghene94&theme=dracula&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
 
 ---
