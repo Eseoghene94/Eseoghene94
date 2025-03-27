@@ -1,76 +1,113 @@
+<div align="center">
+  <h1>👋 Hello World! I'm Eseoghene</h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=00C4FF&center=true&vCenter=true&width=435&lines=Fullstack+Web+Developer;Passionate+Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=eseoghene94&color=blue&style=flat-square" alt="Profile Views" />
+</div>
 
-# Hi there, I'm Eseoghene 👋
+---
 
-![Profile Views](https://komarev.com/ghpvc/?username=eseoghene94&color=blue)
+### 🚀 About Me
 
-I'm a passionate Fullstack Web Developer interested in building scalable and efficient web applications. I enjoy working with both front-end and back-end technologies and continuously improving my skills. Welcome to my GitHub profile!
+I'm a dedicated Fullstack Web Developer passionate about crafting scalable, efficient, and user-friendly web applications. I thrive at the intersection of front-end creativity and back-end logic, constantly pushing myself to learn and innovate.
 
-## 🛠️ Technologies & Tools
+---
 
-**Front End:**
+### 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" height="40"/>
-</p>
+#### Front End
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,angular,vue" />
+</div>
 
-**Back End:**
+#### Back End
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,java,spring,mysql,postgres,mongodb" />
+</div>
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-<!--   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="Django" width="40" height="40"/> -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="Django" width="40" height="40"/>
+#### Cloud
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp" />
+</div>
 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-</p>
+---
 
-**Cloud:**
+### 🌟 Featured Projects
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="Amazon AWS" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Microsoft Azure" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="40" height="40"/>
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/eseoghene94/e-commerce-platform">
+          <img src="https://img.shields.io/badge/E--Commerce-Platform-blue?style=for-the-badge&logo=shopify" alt="E-Commerce" />
+        </a>
+        <p>A robust e-commerce solution with React, Node.js, and MongoDB.</p>
+      </td>
+      <td>
+        <a href="https://github.com/eseoghene94/social-media-app">
+          <img src="https://img.shields.io/badge/Social-Media-App-green?style=for-the-badge&logo=twitter" alt="Social Media" />
+        </a>
+        <p>A dynamic social platform built with Angular and Django.</p>
+      </td>
+    </tr>
+  </table>
+</div>
 
-## 🔭 Projects & Contributions
+---
 
-### 1. [E-Commerce Platform](https://github.com/eseoghene94/e-commerce-platform)
-A full-featured e-commerce platform built using React, Node.js, and MongoDB. It includes user authentication, product management, and payment integration.
+### 🌱 Currently Exploring
 
-### 2. [Social Media App](https://github.com/eseoghene94/social-media-app)
-A social media application developed with Angular and Django. Features include profile management, post creation, and real-time notifications.
+- 🧠 Advanced Algorithms & Data Structures
+- ⚙️ DevOps & CI/CD Pipelines
+- 🤖 Machine Learning Basics
 
-## 🌱 Currently Learning
+---
 
-- Advanced algorithms and data structures
-- DevOps practices and CI/CD pipelines
-- Machine learning and AI
+### 📊 My GitHub Insights
 
-## 💬 Let's Connect
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=eseoghene94&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eseoghene94&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+</div>
 
-- [Portfolio](https://eseoghenethedeveloper.vercel.app)
-- [LinkedIn](https://www.linkedin.com/in/eseoghene94/)
-- [Twitter](https://twitter.com/eseoghene94)
-- [Personal Blog/Website](https://www.yourwebsite.com)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eseoghene94&theme=dracula&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</div>
 
-## 📊 GitHub Stats
+---
 
-![Eseoghene's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eseoghene94&show_icons=true&theme=radical)
+### 💬 Connect With Me
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eseoghene94&layout=compact&theme=radical)
+<div align="center">
+  <a href="https://eseoghenethedeveloper.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=vercel" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/eseoghene94/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/eseoghene94">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter" alt="Twitter" />
+  </a>
+  <a href="https://www.yourwebsite.com">
+    <img src="https://img.shields.io/badge/Blog-00C4B4?style=for-the-badge&logo=hashnode" alt="Blog" />
+  </a>
+</div>
 
-## ☕ Support
+---
 
-If you like my work and want to support me, consider buying me a coffee!
+### ☕ Fuel My Code
 
-[![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-orange?style=flat&logo=buy-me-a-coffee)](https://www.buymeacoffee.com/eseoghene94)
+Love what I do? Keep me caffeinated!
+
+<div align="center">
+  <a href="https://www.buymeacoffee.com/eseoghene94">
+    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee" alt="Buy Me A Coffee" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" /> 
+  <i>"Code is like humor. When you have to explain it, it’s bad."</i> – Cory House
+</div>
