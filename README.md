@@ -18,12 +18,12 @@
 
 ### 🚀 Frontend
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,vue,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,vue,vite,tailwind" />
 </div>
 
 ### 🛠 Backend
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,java,spring,mysql,postgres,mongodb" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,django,java,spring,mysql,postgres,mongodb" />
 </div>
 
 ### ☁️ Cloud & DevOps
