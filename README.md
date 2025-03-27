@@ -1,38 +1,37 @@
-<div align="center">
+<div align="center"> 
   <h1>👋 Hello World! I'm Eseoghene</h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=00C4FF&center=true&vCenter=true&width=435&lines=Fullstack+Web+Developer;Passionate+Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=00C4FF&center=true&vCenter=true&width=500&lines=Fullstack+Web+Developer;Passionate+Problem+Solver;Tech+Enthusiast;Lifelong+Learner" alt="Typing SVG" />
   <br>
   <img src="https://komarev.com/ghpvc/?username=eseoghene94&color=blue&style=flat-square" alt="Profile Views" />
 </div>
 
 ---
 
-### 🚀 About Me
-
-I'm a dedicated Fullstack Web Developer with a passion for crafting scalable, efficient, and user-friendly web applications. I thrive at the intersection of front-end creativity and back-end logic, constantly pushing myself to learn and innovate.
+## 🚀 About Me
+I'm a dedicated **Fullstack Web Developer** passionate about creating **scalable**, **efficient**, and **user-friendly** applications. I specialize in crafting seamless user experiences while ensuring optimal backend performance. Learning and innovating daily is my mantra. 💡
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-#### Front End
+### Front End
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,angular,vue" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,vue,angular,tailwind" />
 </div>
 
-#### Back End
+### Back End
 <div align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,java,spring,mysql,postgres,mongodb" />
 </div>
 
-#### Cloud
+### Cloud & DevOps
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes" />
 </div>
 
 ---
 
-### 🌟 Featured Projects
+## 🌟 Featured Projects
 
 <div align="center">
   <table>
@@ -55,59 +54,16 @@ I'm a dedicated Fullstack Web Developer with a passion for crafting scalable, ef
 
 ---
 
-### 🌱 Currently Exploring
+## 🌱 Currently Exploring
 
 - 🧠 Advanced Algorithms & Data Structures
 - ⚙️ DevOps & CI/CD Pipelines
-- 🤖 Machine Learning Basics
+- 🤖 AI & Machine Learning with Python
 
 ---
 
-### 📊 My GitHub Insights
+## 📊 My GitHub Insights
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eseoghene94&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eseoghene94&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=eseoghene94&theme=dracula&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</div>
-
----
-
-### 💬 Connect With Me
-
-<div align="center">
-  <a href="https://eseoghenethedeveloper.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=vercel" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/eseoghene94/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/eseoghene94">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter" alt="Twitter" />
-  </a>
-  <a href="https://www.yourwebsite.com">
-    <img src="https://img.shields.io/badge/Blog-00C4B4?style=for-the-badge&logo=hashnode" alt="Blog" />
-  </a>
-</div>
-
----
-
-### ☕ Fuel My Code
-
-Love what I do? Keep me caffeinated!
-
-<div align="center">
-  <a href="https://www.buymeacoffee.com/eseoghene94">
-    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee" alt="Buy Me A Coffee" />
-  </a>
-</div>
-
----
-
-<div align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" /> 
-  <i>"Code is like humor. When you have to explain it, it’s bad."</i> – Cory House
-</div>
+  <img src="https://github-readme-stats.vercel.app/api?username=eseoghene94&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.ver
