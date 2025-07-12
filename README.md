@@ -1,115 +1,125 @@
+
+
 <div align="center">
-  <h1>👋 Hello World! I'm Eseoghene</h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00C4FF&center=true&vCenter=true&width=500&lines=Fullstack+Web+Developer;Passionate+Problem+Solver;Tech+Enthusiast;Open-Source+Contributor" alt="Typing SVG" />
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=eseoghene94&color=blue&style=flat-square" alt="Profile Views" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Eseoghene+👨‍💻;Fullstack+Developer+%7C+DevOps+Engineer+%7C+AI+Explorer;I+write+code+that+ships+and+scales!;Welcome+to+my+GitHub+terminal..." alt="Typing SVG" />
+
+<img src="https://komarev.com/ghpvc/?username=eseoghene94&color=00FF00&style=flat-square" alt="Profile Views" />
+
+![Header](https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&text=Welcome%20to%20My%20Terminal&fontColor=ffffff&fontAlignY=30&fontSize=30&desc=Code.%20Build.%20Deploy.&descAlignY=60&descAlign=60)
+
 </div>
 
 ---
 
-## 🚀 About Me
-💡 Passionate about technology and innovation, I thrive at the intersection of front-end creativity and back-end logic.  
-📌 I build scalable, user-friendly web applications using cutting-edge technologies.  
-🚀 I enjoy solving complex problems and contributing to open-source projects.  
+### 🧑‍💻 ~ whoami
+
+```bash
+$ I’m Eseoghene, a fullstack engineer & DevOps enthusiast 
+$ Passionate about developer tooling, building robust APIs, and AI agents
+$ Based in Lagos 🇳🇬 | Available Worldwide 🌍
+````
 
 ---
 
-## 🛠️ Tech Stack
+## 🔧 Tech Stack
 
-### 🚀 Frontend
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,vue,vite,tailwind" />
-</div>
+```bash
+Frontend   :: React ⚛️ · Next.js · TailwindCSS · Vue · Vite
+Backend    :: Node.js · NestJS · Django · Spring Boot · PostgreSQL · MongoDB
+DevOps     :: Docker · K8s · GitHub Actions · AWS · GCP · Vercel · CI/CD
+```
 
-### 🛠 Backend
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,django,java,spring,mysql,postgres,mongodb" />
-</div>
+> 🛠 Visual Tech Stack Badges
 
-### ☁️ Cloud & DevOps
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,git,github,gitlab" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vue,vite,nodejs,nestjs,django,python,spring,java,mysql,postgres,mongodb,aws,gcp,azure,docker,kubernetes,git,github,vercel" />
 </div>
 
 ---
 
-## 🌟 Featured Projects
+## 🚀 Projects Showcase
+
+```bash
+📦 E-Commerce Platform    :: Multi-vendor app built with React + MongoDB + Node
+🌐 Social Media App       :: Real-time platform with Angular + Django backend
+```
 
 <table align="center">
   <tr>
     <td align="center">
       <a href="https://github.com/eseoghene94/e-commerce-platform">
-        <img src="https://img.shields.io/badge/E--Commerce-Platform-blue?style=for-the-badge&logo=shopify" alt="E-Commerce" />
+        <img src="https://img.shields.io/badge/E--Commerce-Platform-0d1117?style=for-the-badge&logo=shopify&logoColor=white&color=00ffcc" />
       </a>
-      <p>🚀 A robust e-commerce platform built with React, Node.js, and MongoDB.</p>
     </td>
     <td align="center">
       <a href="https://github.com/eseoghene94/social-media-app">
-        <img src="https://img.shields.io/badge/Social-Media-App-green?style=for-the-badge&logo=twitter" alt="Social Media" />
+        <img src="https://img.shields.io/badge/Social-Media-App-0d1117?style=for-the-badge&logo=twitter&logoColor=white&color=00ffcc" />
       </a>
-      <p>🌍 A dynamic social platform powered by Angular and Django.</p>
     </td>
   </tr>
 </table>
 
 ---
 
-## 🌱 Currently Exploring
+## 🧠 Learning & Building
 
-- 🔍 Advanced Algorithms & Data Structures  
-- 🛠️ DevOps & CI/CD Pipelines  
-- 🤖 Machine Learning & AI Integration  
-
----
-
-## 📊 My GitHub Insights
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eseoghene94&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eseoghene94&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=eseoghene94&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</div>
+```bash
+💡 Machine Learning Agents · Advanced DevOps · Microservices Architecture
+🧪 Experimenting with OpenAI APIs · AI Tools for Devs · Prompt Engineering
+```
 
 ---
 
-## 💬 Connect With Me
+## 📊 GitHub Analytics
+
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=eseoghene94\&show_icons=true\&theme=tokyonight\&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eseoghene94\&layout=compact\&theme=tokyonight\&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=eseoghene94\&theme=tokyonight\&hide_border=true)
+
+[![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=eseoghene94\&bg_color=0d1117\&color=00ffcc\&line=00ffcc\&point=ffffff\&area=true\&hide_border=true)](https://github.com/eseoghene94)
+
+</div>
+
+---
+
+## 🌍 Let's Connect
 
 <div align="center">
   <a href="https://eseoghenethedeveloper.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=vercel" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&color=00ffcc" />
   </a>
-  <a href="https://www.linkedin.com/in/eseoghene94/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  <a href="https://linkedin.com/in/eseoghene94">
+    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&color=00ffcc" />
   </a>
   <a href="https://twitter.com/eseoghene94">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter" alt="Twitter" />
-  </a>
-  <a href="https://www.yourwebsite.com">
-    <img src="https://img.shields.io/badge/Blog-00C4B4?style=for-the-badge&logo=hashnode" alt="Blog" />
+    <img src="https://img.shields.io/badge/Twitter-0d1117?style=for-the-badge&logo=twitter&color=00ffcc" />
   </a>
   <a href="https://github.com/eseoghene94">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&color=00ffcc" />
   </a>
 </div>
 
 ---
 
-## ☕ Fuel My Code
-
-Love what I do? Keep me caffeinated!
+## ☕ Support My Work
 
 <div align="center">
   <a href="https://www.buymeacoffee.com/eseoghene94">
-    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee" alt="Buy Me A Coffee" />
+    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-0d1117?style=for-the-badge&logo=buy-me-a-coffee&color=FFDD00" />
   </a>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" /> 
-  <i>"Code is like humor. When you have to explain it, it’s bad."</i> – Cory House
+  <img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" width="70" />
+  <br/>
+  <i style="color:lime">“Any sufficiently advanced technology is indistinguishable from magic.”</i> – Arthur C. Clarke
 </div>
+```
+
