@@ -1,27 +1,27 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Eseoghene+👨‍💻;Fullstack+Engineer+·+DevOps+Enthusiast+·+AI+Explorer;I+build+robust+systems+that+scale!;Welcome+to+my+GitHub+Terminal..." alt="Typing SVG" />
+![Typing Intro](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=00FF88&center=true&vCenter=true&width=650&lines=Hey+there,+I'm+Eseoghene+👨‍💻;Fullstack+Engineer+·+DevOps+Advocate+·+AI+Explorer;I+Build+Scalable+and+Robust+Systems;Welcome+to+My+GitHub+Terminal)
 
-<img src="https://komarev.com/ghpvc/?username=eseoghene94&color=00FF00&style=flat-square" alt="Profile Views" />
+![Profile Views](https://komarev.com/ghpvc/?username=eseoghene94&color=00FF88&style=for-the-badge)
 
-![Header](https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&text=Welcome%20to%20My%20Terminal&fontColor=ffffff&fontAlignY=30&fontSize=30&desc=Code.%20Build.%20Deploy.&descAlignY=60&descAlign=60)
+![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Welcome%20to%20My%20Terminal&fontColor=ffffff&fontAlignY=35&fontSize=32&desc=Code.%20Build.%20Deploy.&descAlignY=60&descAlign=60)
 
 </div>
 
 ---
 
-### 🧑‍💻 &nbsp;whoami
+## 🧑‍💻 `whoami`
 
 ```bash
-$ I’m Eseoghene — Fullstack Engineer | DevOps Advocate | AI Explorer
-$ Crafting high-performing systems with clean architecture & resilient APIs
-$ Based in Lagos, Nigeria 🇳🇬 | Open to global opportunities 🌍
+> I’m Eseoghene — Fullstack Engineer | DevOps Advocate | AI Explorer
+> Building high-performing systems with clean architecture & resilient APIs
+> Based in Lagos, Nigeria 🇳🇬 | Open to global collaborations 🌍
 ````
 
 ---
 
-## 🛠️ Tech Stack
+## ⚡ Tech Arsenal
 
 ```bash
 Frontend   :: React ⚛️ · Next.js · TailwindCSS · Vue · Vite
@@ -35,36 +35,21 @@ DevOps     :: Docker · Kubernetes · GitHub Actions · AWS · GCP · Vercel · 
 
 ---
 
-## 🚀 Projects Showcase
+## 🚀 Featured Projects
 
-```bash
-📦 E-Commerce Platform    :: Multi-vendor architecture (React, MongoDB, Node.js)
-🌐 Social Media App       :: Real-time community with Angular & Django REST
-```
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://github.com/eseoghene94/e-commerce-platform">
-        <img src="https://img.shields.io/badge/E--Commerce-Platform-0d1117?style=for-the-badge&logo=shopify&logoColor=white&color=00ffcc" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/eseoghene94/social-media-app">
-        <img src="https://img.shields.io/badge/Social-Media-App-0d1117?style=for-the-badge&logo=twitter&logoColor=white&color=00ffcc" />
-      </a>
-    </td>
-  </tr>
-</table>
+| Project                                                                                                                                                                                                 | Description                                                   |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------- |
+| [![E-Commerce Platform](https://img.shields.io/badge/E--Commerce-Platform-0d1117?style=for-the-badge\&logo=shopify\&logoColor=white\&color=00ffcc)](https://github.com/eseoghene94/e-commerce-platform) | Multi-vendor architecture with React, MongoDB, and Node.js    |
+| [![Social Media App](https://img.shields.io/badge/Social-Media-App-0d1117?style=for-the-badge\&logo=twitter\&logoColor=white\&color=00ffcc)](https://github.com/eseoghene94/social-media-app)           | Real-time community platform built with Angular & Django REST |
 
 ---
 
-## 🧠 Currently Exploring
+## 🧠 Learning & Exploration
 
 ```bash
-🧠   AI Agents · Prompt Engineering · OpenAI API Workflows
-🔧   Microservices · Serverless · Advanced DevOps Tooling
-🧪   Distributed Systems · Monitoring · Observability
+AI Agents · Prompt Engineering · OpenAI API Workflows
+Microservices · Serverless · Advanced DevOps Tooling
+Distributed Systems · Monitoring · Observability
 ```
 
 ---
@@ -74,12 +59,10 @@ DevOps     :: Docker · Kubernetes · GitHub Actions · AWS · GCP · Vercel · 
 <div align="center">
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=eseoghene94\&show_icons=true\&theme=tokyonight\&hide_border=true)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eseoghene94\&layout=compact\&theme=tokyonight\&hide_border=true)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=eseoghene94\&theme=tokyonight\&hide_border=true)
 
-[![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=eseoghene94\&bg_color=0d1117\&color=00ffcc\&line=00ffcc\&point=ffffff\&area=true\&hide_border=true)](https://github.com/eseoghene94)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=eseoghene94\&bg_color=0d1117\&color=00ffcc\&line=00ffcc\&point=ffffff\&area=true\&hide_border=true)](https://github.com/eseoghene94)
 
 </div>
 
@@ -117,7 +100,8 @@ DevOps     :: Docker · Kubernetes · GitHub Actions · AWS · GCP · Vercel · 
 <div align="center">
   <img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" width="70" />
   <br/>
-  <i style="color:lime">“Any sufficiently advanced technology is indistinguishable from magic.”</i> – Arthur C. Clarke
+  <i style="color:#00FF88">“Any sufficiently advanced technology is indistinguishable from magic.”</i> – Arthur C. Clarke
 </div>
-```
 
+
+If you want, I can also **add animated terminal-like code snippets** so your `whoami` and `Tech Stack` sections look like they’re being typed live. That would make the GitHub page feel like an **actual interactive terminal**.
