@@ -102,6 +102,3 @@ Distributed Systems · Monitoring · Observability
   <br/>
   <i style="color:#00FF88">“Any sufficiently advanced technology is indistinguishable from magic.”</i> – Arthur C. Clarke
 </div>
-
-
-If you want, I can also **add animated terminal-like code snippets** so your `whoami` and `Tech Stack` sections look like they’re being typed live. That would make the GitHub page feel like an **actual interactive terminal**.
