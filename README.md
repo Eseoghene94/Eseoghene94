@@ -1,4 +1,5 @@
 <!-- ═══════════════════════════ HERO ═══════════════════════════ -->
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f3d2e,100:00ff88&height=200&section=header&text=Eseoghene&fontSize=64&fontColor=ffffff&fontAlignY=36&desc=Fullstack%20Engineer%20%E2%80%A2%20DevOps%20Advocate%20%E2%80%A2%20AI%20Explorer&descSize=18&descAlignY=58&animation=fadeIn" width="100%" />
@@ -18,6 +19,7 @@
 </div>
 
 <!-- ═══════════════════════════ ABOUT ═══════════════════════════ -->
+
 <table>
 <tr>
 <td width="55%" valign="top">
@@ -38,17 +40,18 @@ exploring: [ AI agents, microservices, observability ]
 
 ### `$ now --status`
 
-- 🔭 Building production-grade fullstack apps
-- 🤖 Experimenting with AI agents & LLM workflows
-- ☁️ Going deeper on Kubernetes & serverless
-- 📈 Leveling up monitoring & distributed systems
-- 💬 Ask me about **Node, Django, Docker, AWS**
+* 🔭 Building production-grade fullstack applications
+* 🤖 Exploring AI agents and LLM workflows
+* ☁️ Going deeper into Kubernetes and serverless
+* 📈 Improving monitoring and distributed systems
+* 💬 Ask me about Node.js, Django, Docker and AWS
 
 </td>
 </tr>
 </table>
 
 <!-- ═══════════════════════════ STACK ═══════════════════════════ -->
+
 ## ⚡ Tech Stack
 
 <table>
@@ -56,21 +59,25 @@ exploring: [ AI agents, microservices, observability ]
 <td align="center" width="140"><b>Frontend</b></td>
 <td><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,angular,tailwind,vite&theme=dark&perline=10" /></td>
 </tr>
+
 <tr>
 <td align="center"><b>Backend</b></td>
-<td><img src="https://skillicons.dev/icons?i=nodejs,nestjs,python,django,java,spring&theme=dark" /></td>
+<td><img src="https://skillicons.dev/icons?i=nodejs,nestjs,python,django,java,spring&theme=dark&perline=6" /></td>
 </tr>
+
 <tr>
 <td align="center"><b>Data</b></td>
-<td><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&theme=dark" /></td>
+<td><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&theme=dark&perline=4" /></td>
 </tr>
+
 <tr>
 <td align="center"><b>Cloud & DevOps</b></td>
-<td><img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,vercel,githubactions,git,linux&theme=dark" /></td>
+<td><img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,vercel,githubactions,git,linux&theme=dark&perline=9" /></td>
 </tr>
 </table>
 
 <!-- ═══════════════════════════ PROJECTS ═══════════════════════════ -->
+
 ## 🚀 Featured Projects
 
 <table>
@@ -78,21 +85,24 @@ exploring: [ AI agents, microservices, observability ]
 <td width="50%" valign="top">
 
 ### 🛒 [E-Commerce Platform](https://github.com/eseoghene94/e-commerce-platform)
+
 Multi-vendor marketplace with vendor dashboards, product catalogs and order flows.
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=nodedotjs\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square\&logo=mongodb\&logoColor=white)
 
 </td>
+
 <td width="50%" valign="top">
 
 ### 💬 [Social Media App](https://github.com/eseoghene94/social-media-app)
+
 Real-time community platform with feeds, interactions and live updates.
 
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Django](https://img.shields.io/badge/Django_REST-092E20?style=flat-square&logo=django&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square\&logo=angular\&logoColor=white)
+![Django REST](https://img.shields.io/badge/Django_REST-092E20?style=flat-square\&logo=django\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
 
 </td>
 </tr>
@@ -103,6 +113,7 @@ Real-time community platform with feeds, interactions and live updates.
 </div>
 
 <!-- ═══════════════════════════ ANALYTICS ═══════════════════════════ -->
+
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -116,9 +127,9 @@ Real-time community platform with feeds, interactions and live updates.
 
 <br/>
 
-<img width="49%" src="profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Repos per language" />
-<img width="49%" src="profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Commits per language" />
-<img width="49%" src="profile-summary-card-output/github_dark/3-stats.svg" alt="Stats" />
+<img width="49%" src="profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Repositories per language" />
+<img width="49%" src="profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most committed language" />
+<img width="49%" src="profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub statistics" />
 <img width="49%" src="profile-summary-card-output/github_dark/4-productive-time.svg" alt="Productive time" />
 
 <br/>
@@ -126,11 +137,13 @@ Real-time community platform with feeds, interactions and live updates.
 <img src="metrics.habits.svg" alt="Coding habits" />
 
 ### 🏆 Achievements
-<img src="metrics.achievements.svg" alt="Achievements" />
+
+<img src="metrics.achievements.svg" alt="GitHub achievements" />
 
 </div>
 
 <!-- ═══════════════════════════ SNAKE ═══════════════════════════ -->
+
 ## 🐍 Contribution Snake
 
 <div align="center">
@@ -142,6 +155,7 @@ Real-time community platform with feeds, interactions and live updates.
 </div>
 
 <!-- ═══════════════════════════ FOOTER ═══════════════════════════ -->
+
 <div align="center">
 
 <br/>
