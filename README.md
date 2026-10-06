@@ -84,10 +84,6 @@ Multi-vendor marketplace with vendor dashboards, product catalogs and order flow
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-<a href="https://github.com/eseoghene94/e-commerce-platform">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=eseoghene94&repo=e-commerce-platform&theme=transparent&title_color=00ff88&icon_color=00ff88&text_color=c9d1d9&hide_border=true" />
-</a>
-
 </td>
 <td width="50%" valign="top">
 
@@ -98,39 +94,39 @@ Real-time community platform with feeds, interactions and live updates.
 ![Django](https://img.shields.io/badge/Django_REST-092E20?style=flat-square&logo=django&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-<a href="https://github.com/eseoghene94/social-media-app">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=eseoghene94&repo=social-media-app&theme=transparent&title_color=00ff88&icon_color=00ff88&text_color=c9d1d9&hide_border=true" />
-</a>
-
 </td>
 </tr>
 </table>
+
+<div align="center">
+  <img src="metrics.projects.svg" alt="Featured repositories" />
+</div>
 
 <!-- ═══════════════════════════ ANALYTICS ═══════════════════════════ -->
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=eseoghene94&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&title_color=00ff88&icon_color=00ff88&text_color=c9d1d9&hide_border=true&rank_icon=github" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eseoghene94&layout=donut&langs_count=8&theme=transparent&title_color=00ff88&text_color=c9d1d9&hide_border=true" />
-
-<img src="https://streak-stats.demolab.com?user=eseoghene94&theme=transparent&hide_border=true&ring=00ff88&fire=00ff88&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=00ff88&sideLabels=8b949e&dates=8b949e" />
+<img src="metrics.overview.svg" alt="GitHub overview" />
 
 <br/>
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eseoghene94&theme=github_dark" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eseoghene94&theme=github_dark" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=eseoghene94&theme=github_dark" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=eseoghene94&theme=github_dark&utcOffset=1" />
-
-<br/><br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=eseoghene94&bg_color=0d1117&color=c9d1d9&line=00ff88&point=ffffff&area=true&area_color=00ff88&hide_border=true&custom_title=Contribution%20activity" />
+<img width="49%" src="metrics.languages.svg" alt="Most used languages" />
+<img width="49%" src="metrics.calendar.svg" alt="Contribution calendar and streaks" />
 
 <br/>
 
-### 🏆 Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=eseoghene94&theme=onedark&no-frame=true&no-bg=true&margin-w=8&column=7" />
+<img width="49%" src="profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Repos per language" />
+<img width="49%" src="profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Commits per language" />
+<img width="49%" src="profile-summary-card-output/github_dark/3-stats.svg" alt="Stats" />
+<img width="49%" src="profile-summary-card-output/github_dark/4-productive-time.svg" alt="Productive time" />
+
+<br/>
+
+<img src="metrics.habits.svg" alt="Coding habits" />
+
+### 🏆 Achievements
+<img src="metrics.achievements.svg" alt="Achievements" />
 
 </div>
 
