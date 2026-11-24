@@ -140,7 +140,7 @@ remote:     open to global collaborations 🌍
 <tr>
 <td width="50%" valign="top">
 
-### 📚 [SchoolBooks](https://schoolbooks.com.ng)
+### 📚 Educational Marketplace <sub>· confidential</sub>
 
 Multi-vendor educational marketplace with bookstores, eBooks, AI-assisted discovery, map-based delivery and integrated payments.
 
@@ -151,9 +151,9 @@ Multi-vendor educational marketplace with bookstores, eBooks, AI-assisted discov
 </td>
 <td width="50%" valign="top">
 
-### 🍲 Homefoodly
+### 🍲 Food-Tech Ecosystem <sub>· confidential</sub>
 
-Food-tech ecosystem spanning multiple brands — EpeCatch, Royal Eja Osan, Saadu Hub, Seafoodie and Food Export Academy.
+Multi-brand food-tech platform serving several food businesses from a shared backend.
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
@@ -188,7 +188,7 @@ IoT energy monitoring platform with smart metering, MQTT connectivity and analyt
 <tr>
 <td width="50%" valign="top">
 
-### 💊 go2PHARM
+### 💊 E-Pharmacy Marketplace <sub>· confidential</sub>
 
 Regulated Nigerian e-pharmacy marketplace connecting customers with licensed pharmacies.
 
@@ -219,6 +219,7 @@ School management system and website for The Athalia House Montessori Schools.
 | 🩺 **MedMeet** | Healthcare platform — patient management, NIN verification, appointment booking | Next.js · NestJS |
 | 🎓 **PsalmsWings LMS** | Enterprise learning management system for institutional course delivery | Next.js · NestJS |
 | 🛍️ **Complete Market** | Marketplace platform with a Django backend | Django · PostgreSQL |
+| 🔗 **Meta Integration Platform** <sub>· confidential</sub> | Freelance build for a UK-based client, integrating Meta APIs | FastAPI · Python |
 | 🌐 **[VCTL](https://vctltd.com)** | Company website for VCTL | Next.js · Node.js |
 
 </details>
